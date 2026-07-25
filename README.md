@@ -33,5 +33,10 @@ in this repo i will be writing solutions of every leetcode problem i solve
 ## String
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1021-remove-outermost-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
