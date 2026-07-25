@@ -21,4 +21,12 @@ in this repo i will be writing solutions of every leetcode problem i solve
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0496-next-greater-element-i) |
+## Math
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3536-maximum-product-of-two-digits) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
