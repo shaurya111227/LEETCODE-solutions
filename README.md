@@ -32,6 +32,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -48,6 +49,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [1021-remove-outermost-parentheses](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2833-furthest-point-from-origin](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2833-furthest-point-from-origin) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String Matching
 |  |
@@ -72,4 +74,8 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2833-furthest-point-from-origin](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
