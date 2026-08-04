@@ -52,6 +52,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 ## String
 |  |
 | ------- |
+| [0520-detect-capital](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
