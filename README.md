@@ -52,6 +52,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 ## String
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -63,6 +64,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0796-rotate-string) |
 ## Heap (Priority Queue)
 |  |
@@ -97,4 +99,12 @@ in this repo i will be writing solutions of every leetcode problem i solve
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0877-stone-game) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
