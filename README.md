@@ -20,6 +20,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [0001-two-sum](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0496-next-greater-element-i) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3731-find-missing-elements) |
 ## Stack
@@ -58,6 +59,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [0796-rotate-string](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2833-furthest-point-from-origin](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -84,6 +86,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 |  |
 | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2833-furthest-point-from-origin](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
