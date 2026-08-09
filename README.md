@@ -23,6 +23,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [0496-next-greater-element-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0496-next-greater-element-i) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3731-find-missing-elements](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3731-find-missing-elements) |
@@ -67,6 +68,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [1021-remove-outermost-parentheses](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2833-furthest-point-from-origin](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -125,6 +127,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 ## Enumeration
 |  |
 | ------- |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Backtracking
 |  |
