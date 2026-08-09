@@ -24,6 +24,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3731-find-missing-elements](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
@@ -69,6 +70,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [2833-furthest-point-from-origin](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String Matching
