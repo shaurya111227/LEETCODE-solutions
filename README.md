@@ -36,6 +36,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -73,6 +74,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [1021-remove-outermost-parentheses](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [2000-reverse-prefix-of-word](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -147,4 +149,8 @@ in this repo i will be writing solutions of every leetcode problem i solve
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
