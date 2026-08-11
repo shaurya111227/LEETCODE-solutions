@@ -24,6 +24,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [0001-two-sum](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0496-next-greater-element-i) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -71,6 +72,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [0796-rotate-string](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -104,6 +106,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 |  |
 | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2833-furthest-point-from-origin](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
