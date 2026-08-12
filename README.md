@@ -15,6 +15,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3731-find-missing-elements](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3731-find-missing-elements) |
@@ -27,6 +28,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [1189-maximum-number-of-balloons](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -153,4 +155,8 @@ in this repo i will be writing solutions of every leetcode problem i solve
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2000-reverse-prefix-of-word) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
