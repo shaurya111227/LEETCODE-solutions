@@ -51,6 +51,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [0628-maximum-product-of-three-numbers](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [2769-find-the-maximum-achievable-number](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
