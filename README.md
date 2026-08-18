@@ -13,6 +13,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [0877-stone-game](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1046-last-stone-weight) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1389-create-target-array-in-the-given-order](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2029-stone-game-ix](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2029-stone-game-ix) |
@@ -188,4 +189,8 @@ in this repo i will be writing solutions of every leetcode problem i solve
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2029-stone-game-ix) |
+## Simulation
+|  |
+| ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 <!---LeetCode Topics End-->
