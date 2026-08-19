@@ -18,6 +18,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [1848-minimum-distance-to-the-target-element](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2029-stone-game-ix](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2029-stone-game-ix) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
