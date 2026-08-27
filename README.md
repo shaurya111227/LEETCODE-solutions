@@ -31,6 +31,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0771-jewels-and-stones) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -87,6 +88,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0459-repeated-substring-pattern](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0771-jewels-and-stones) |
@@ -183,6 +185,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
