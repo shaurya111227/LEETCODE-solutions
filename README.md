@@ -8,6 +8,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | ------- |
 | [0001-two-sum](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -155,6 +156,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0198-house-robber) |
 | [0877-stone-game](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
