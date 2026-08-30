@@ -19,6 +19,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [1848-minimum-distance-to-the-target-element](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2029-stone-game-ix](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -144,6 +145,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
