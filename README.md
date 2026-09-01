@@ -73,6 +73,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [0204-count-primes](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1025-divisor-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1512-number-of-good-pairs](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2029-stone-game-ix) |
@@ -167,10 +168,12 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | ------- |
 | [0198-house-robber](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0198-house-robber) |
 | [0877-stone-game](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1025-divisor-game) |
 | [2029-stone-game-ix](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2029-stone-game-ix) |
 ## Z Algorithm
 |  |
@@ -246,4 +249,12 @@ in this repo i will be writing solutions of every leetcode problem i solve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0204-count-primes) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
