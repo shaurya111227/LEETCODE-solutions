@@ -9,6 +9,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [0001-two-sum](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -66,6 +67,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | ------- |
 | [0007-reverse-integer](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0009-palindrome-number) |
+| [0204-count-primes](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -175,6 +177,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0204-count-primes) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Backtracking
@@ -184,6 +187,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0204-count-primes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
@@ -222,4 +226,16 @@ in this repo i will be writing solutions of every leetcode problem i solve
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
