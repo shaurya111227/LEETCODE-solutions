@@ -25,6 +25,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -90,6 +91,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [0215-kth-largest-element-in-an-array](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -198,6 +200,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2000-reverse-prefix-of-word](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -230,6 +233,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Primality Test
 |  |
 | ------- |
