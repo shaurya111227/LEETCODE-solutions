@@ -9,6 +9,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [0001-two-sum](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0496-next-greater-element-i) |
@@ -263,9 +264,19 @@ in this repo i will be writing solutions of every leetcode problem i solve
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0200-number-of-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0200-number-of-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
