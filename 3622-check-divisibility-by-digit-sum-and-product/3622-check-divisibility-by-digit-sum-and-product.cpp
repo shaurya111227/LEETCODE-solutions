@@ -1,18 +1,27 @@
 class Solution {
 public:
-    bool checkDivisibility(long long n) {
-        long long temp = n;
-        long long sum = 0;
-        long long product = 1;
-        while(temp>0){
-            long long ld = temp%10;
-            sum+=ld;
-            product*=ld;
-            temp = temp/10;
+    bool checkDivisibility(int n) {
+
+        vector<int> digits;
+        int temp = n;
+
+        while (n > 0) {
+            int digit = n % 10;
+            digits.push_back(digit);
+            n = n / 10;
         }
-        if(n%(sum+product)==0){
+        int sum = 0;
+        int product = 1;
+        for (int i = 0; i < digits.size(); i++) {
+            sum = sum + digits[i];
+        }
+        for (int j = 0; j < digits.size(); j++) {
+            product = product * digits[j];
+        }
+
+        if (temp % (sum + product) == 0) {
             return true;
         }
-        return false;
+            return false;
     }
 };
