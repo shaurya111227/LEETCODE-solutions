@@ -35,6 +35,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [3536-maximum-product-of-two-digits](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
