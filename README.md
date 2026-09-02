@@ -264,6 +264,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0200-number-of-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
@@ -274,9 +275,18 @@ in this repo i will be writing solutions of every leetcode problem i solve
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0200-number-of-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0200-number-of-islands) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
