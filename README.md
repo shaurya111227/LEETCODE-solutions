@@ -76,6 +76,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [0009-palindrome-number](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1025-divisor-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
