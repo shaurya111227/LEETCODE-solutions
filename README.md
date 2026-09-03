@@ -283,6 +283,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0226-invert-binary-tree) |
@@ -294,12 +295,14 @@ in this repo i will be writing solutions of every leetcode problem i solve
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
