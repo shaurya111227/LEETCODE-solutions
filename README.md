@@ -63,6 +63,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -283,6 +284,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -296,6 +298,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -304,6 +307,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
