@@ -63,6 +63,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -285,6 +286,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0226-invert-binary-tree) |
 ## Union-Find
@@ -297,6 +299,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -304,5 +307,6 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
