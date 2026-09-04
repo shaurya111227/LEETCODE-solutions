@@ -30,6 +30,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -246,6 +247,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 |  |
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Binary Search
 |  |
 | ------- |
@@ -283,6 +285,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0200-number-of-islands) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Depth-First Search
 |  |
