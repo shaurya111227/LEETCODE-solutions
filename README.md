@@ -37,6 +37,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [3731-find-missing-elements](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -317,4 +318,8 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [0144-binary-tree-preorder-traversal](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0226-invert-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
