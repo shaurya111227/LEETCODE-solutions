@@ -29,6 +29,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3248-snake-in-matrix](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3248-snake-in-matrix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -134,6 +135,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3248-snake-in-matrix](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3248-snake-in-matrix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String Matching
@@ -247,6 +249,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 |  |
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [3248-snake-in-matrix](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3248-snake-in-matrix) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Binary Search
 |  |
