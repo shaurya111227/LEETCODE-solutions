@@ -88,6 +88,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [0728-self-dividing-numbers](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1025-divisor-game) |
+| [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1512-number-of-good-pairs](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2029-stone-game-ix) |
