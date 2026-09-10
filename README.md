@@ -209,6 +209,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [0204-count-primes](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0204-count-primes) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3827-count-monobit-integers](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3827-count-monobit-integers) |
 ## Backtracking
 |  |
 | ------- |
@@ -237,6 +238,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [2206-divide-array-into-equal-pairs](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3827-count-monobit-integers](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3827-count-monobit-integers) |
 ## Minimax
 |  |
 | ------- |
