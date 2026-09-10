@@ -306,6 +306,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [0145-binary-tree-postorder-traversal](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0226-invert-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Union-Find
 |  |
 | ------- |
@@ -320,6 +321,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [0144-binary-tree-preorder-traversal](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0226-invert-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -330,6 +332,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [0144-binary-tree-preorder-traversal](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0226-invert-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Prefix Sum
 |  |
 | ------- |
