@@ -35,6 +35,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3446-sort-matrix-by-diagonals](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3446-sort-matrix-by-diagonals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -63,6 +64,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3731-find-missing-elements) |
@@ -210,6 +212,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [0204-count-primes](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0204-count-primes) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3827-count-monobit-integers](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3827-count-monobit-integers) |
 ## Backtracking
 |  |
@@ -342,4 +345,8 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3904-smallest-stable-index-ii) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
