@@ -14,6 +14,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [0215-kth-largest-element-in-an-array](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1046-last-stone-weight) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -299,6 +300,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0200-number-of-islands) |
+| [0835-image-overlap](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0835-image-overlap) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3446-sort-matrix-by-diagonals](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3446-sort-matrix-by-diagonals) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
