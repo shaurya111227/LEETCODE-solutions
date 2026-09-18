@@ -21,6 +21,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1389-create-target-array-in-the-given-order](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1512-number-of-good-pairs) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -54,6 +55,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [0771-jewels-and-stones](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0771-jewels-and-stones) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -194,6 +196,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [0198-house-robber](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0198-house-robber) |
 | [0877-stone-game](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1025-divisor-game) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Game Theory
 |  |
 | ------- |
@@ -236,6 +239,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -268,6 +272,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Primality Test
 |  |
