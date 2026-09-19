@@ -97,6 +97,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [1025-divisor-game](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1025-divisor-game) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2029-stone-game-ix) |
 | [2469-convert-the-temperature](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/2469-convert-the-temperature) |
@@ -361,4 +362,5 @@ in this repo i will be writing solutions of every leetcode problem i solve
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
