@@ -149,6 +149,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [3120-count-the-number-of-special-characters-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3248-snake-in-matrix](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3248-snake-in-matrix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String Matching
 |  |
@@ -269,6 +270,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [1389-create-target-array-in-the-given-order](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [3248-snake-in-matrix](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3248-snake-in-matrix) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3498-reverse-degree-of-a-string](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
