@@ -14,6 +14,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [0215-kth-largest-element-in-an-array](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0775-global-and-local-inversions](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0775-global-and-local-inversions) |
 | [0835-image-overlap](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1046-last-stone-weight) |
@@ -92,6 +93,7 @@ in this repo i will be writing solutions of every leetcode problem i solve
 | [0204-count-primes](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0728-self-dividing-numbers) |
+| [0775-global-and-local-inversions](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0775-global-and-local-inversions) |
 | [0836-rectangle-overlap](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/shaurya111227/LEETCODE-solutions/tree/master/1025-divisor-game) |
